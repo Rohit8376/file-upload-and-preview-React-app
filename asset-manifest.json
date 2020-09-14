@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/file-upload-and-preview-React-app/static/js/main.dacfb68f.chunk.js",
+    "main.js.map": "/file-upload-and-preview-React-app/static/js/main.dacfb68f.chunk.js.map",
+    "runtime-main.js": "/file-upload-and-preview-React-app/static/js/runtime-main.c94d058f.js",
+    "runtime-main.js.map": "/file-upload-and-preview-React-app/static/js/runtime-main.c94d058f.js.map",
+    "static/css/2.6df4c8f8.chunk.css": "/file-upload-and-preview-React-app/static/css/2.6df4c8f8.chunk.css",
+    "static/js/2.55dbce79.chunk.js": "/file-upload-and-preview-React-app/static/js/2.55dbce79.chunk.js",
+    "static/js/2.55dbce79.chunk.js.map": "/file-upload-and-preview-React-app/static/js/2.55dbce79.chunk.js.map",
+    "index.html": "/file-upload-and-preview-React-app/index.html",
+    "precache-manifest.33fc99bf9309fdb1e0e03007d868f690.js": "/file-upload-and-preview-React-app/precache-manifest.33fc99bf9309fdb1e0e03007d868f690.js",
+    "service-worker.js": "/file-upload-and-preview-React-app/service-worker.js",
+    "static/css/2.6df4c8f8.chunk.css.map": "/file-upload-and-preview-React-app/static/css/2.6df4c8f8.chunk.css.map",
+    "static/js/2.55dbce79.chunk.js.LICENSE.txt": "/file-upload-and-preview-React-app/static/js/2.55dbce79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c94d058f.js",
+    "static/css/2.6df4c8f8.chunk.css",
+    "static/js/2.55dbce79.chunk.js",
+    "static/js/main.dacfb68f.chunk.js"
+  ]
+}
